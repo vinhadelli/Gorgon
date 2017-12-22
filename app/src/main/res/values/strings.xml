@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gorgon</string>
+    <string name="esqueci_senha">Esqueci minha Senha!</string>
+    <string name="login">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+
+</resources>
